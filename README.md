@@ -1,79 +1,110 @@
-# <!-- Edit here: Your Name --> Priyadharsan K
-### <!-- Edit here: Tagline --> MERN Developer | AI Enthusiast | DSA in Java | ECE Student
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/kpriyadharsan">Priyadharsan K</a></h1>
 
----
+<h3 align="center">MERN Developer | AI Enthusiast | DSA Specialist | ECE Student</h3>
 
-## 👋 About Me
-<!-- Edit here: Personal Introduction -->
-I am **Priyadharsan**, a results-driven developer specializing in the **MERN stack** with a profound passion for solving complex problems through **Data Structures and Algorithms** in Java. My expertise lies in bridging the gap between hardware knowledge—stemming from my background in Electronics and Communication Engineering—and modern software solutions. I thrive on building scalable, real-world applications that leverage **AI integrations** to enhance user experiences and optimize performance.
-
-- 🔭 Currently working on: [Jerry](https://github.com/kpriyadharsan/jerry)
-- 🌱 Learning: Advanced Backend Systems & Large Language Models
-- 💬 Ask me about: **Full-stack Development, Priyadharsan's DSA Expertise, and AI Solutions**
-- ⚡ Fun fact: I believe that code should be as elegant as a mathematical proof.
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### [Jerry](https://github.com/kpriyadharsan/jerry)
-**Personal Montor Powered By Ai**
-- Developed an intelligent system to monior and montor Your tasks like practicing DSA, Aptitude and Communication.
-- [View Repository](https://github.com/kpriyadharsan/jerry)
-
-### [Real time Quiz App]
-**A Real Time Quiz App, Where All users login and attend the Quiz at once. **
-- Using Socket.io to monitor the users in real time.
-- Built using the MERN stack for high-performance data handling and reactive UI.
-- [View Repository](https://github.com/kpriyadharsan/xoquiz)
-
----
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kpriyadharsan&show_icons=true&theme=tokyonight" alt="Priyadharsan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpriyadharsan&layout=compact&theme=tokyonight" alt="Priyadharsan's Top Languages" />
+  Passionate about architecting <strong>robust full-stack solutions</strong> that harmonize artificial intelligence with seamless user experiences.<br>
+  I’m driven by the vision of <strong>Innovation Through Code</strong> — building human-centric software that solves real-world challenges through logic and creativity.
 </p>
 
 ---
 
-## 🌐 SEO & Discoverability
-<!-- Focus on Primary Keyword: Priyadharsan -->
-As a developer, **Priyadharsan** is committed to delivering excellence in every codebase. Many in the industry recognize **Priyadharsan** for his expertise in full-stack architecture and robust engineering. If you are looking for a **Priyadharsan React Developer**, you will find innovative frontend designs right here. This **Priyadharsan Vb Portfolio** serves as a documentation of my journey through engineering and software development. I am constantly expanding my repertoire through various **Priyadharsan AI Projects**, pushing the envelope of what is possible with web technologies.
+<h2 align="center">🌱 About Me</h2>
+
+<p align="center">
+  I'm a software engineer who specializes in the <strong>MERN stack</strong> and deep-dives into <strong>Data Structures and Algorithms</strong> using Java.<br><br>
+  My journey is defined by a relentless pursuit of efficiency — from mastering complex algorithms to integrating <strong>AI-driven features</strong> into web ecosystems.<br>
+  Projects like <strong>SpeechXO</strong> and <strong>Jerry</strong> reflect my focus: designing systems that aren't just functional, but truly intelligent.
+</p>
 
 ---
 
-## 🤝 Connect With Me
-<p align="left">
-<a href="<!-- Edit here: LinkedIn URL -->" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Priyadharsan LinkedIn" height="30" width="40" /></a>
-<a href="<!-- Edit here: Portfolio URL -->" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Priyadharsan Portfolio" height="30" width="40" /></a>
-<a href="mailto:<!-- Edit here: Email Address -->" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Priyadharsan Email" height="30" width="40" /></a>
+<h2 align="center">⚙️ Core Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">🧩 Frameworks & Libraries</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">☁️ Databases & Deployment</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+---
+
+<h2 align="center">💻 Tools & Environments</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Pulse</h2>
+
+<p align="center">
+  <a href="https://github.com/kpriyadharsan">
+    <img src="https://github-readme-stats.vercel.app/api?username=kpriyadharsan&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  </a>
+  <a href="https://github.com/kpriyadharsan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpriyadharsan&theme=tokyonight&hide_border=true" height="165"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">🌐 SEO & Discoverability</h2>
+<p align="center">
+  As a developer, <strong>Priyadharsan</strong> is dedicated to crafting high-performance digital ecosystems. Known as a <strong>Priyadharsan React Developer</strong>, I bring modern aesthetic and logic to frontend engineering. My journey is documented through various <strong>Priyadharsan AI Projects</strong> and this <strong>Priyadharsan Vb Portfolio</strong>, demonstrating a commitment to solving the unsolvable.
+</p>
+
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/<!-- Edit here: LinkedIn Username -->"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:<!-- Edit here: Email Address -->"><img src="https://img.icons8.com/color/48/000000/gmail-new.svg" width="52"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kpriyadharsan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
-  <b>Thanks for visiting the profile of Priyadharsan!</b>
+  <br>
+  <img src="https://raw.githubusercontent.com/Priyadharsan-K/Priyadharsan-K/main/assets/footer_glow.png" width="100%" onerror="this.style.display='none'"/>
+  <br>
+  <font size="4"><strong>“Turning complex logic into elegant experiences.”</strong></font><br>
+  🚀 <i>Priyadharsan K | Engineering the Future with AI & MERN</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kpriyadharsan&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
