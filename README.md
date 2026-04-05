@@ -76,7 +76,7 @@
 
 <h2 align="center">🌐 SEO & Discoverability</h2>
 <p align="center">
-  As a developer, <strong>Priyadharsan</strong> is dedicated to crafting high-performance digital ecosystems. Known as a <strong>Priyadharsan React Developer</strong>, I bring modern aesthetic and logic to frontend engineering. My journey is documented through various <strong>Priyadharsan AI Projects</strong> and this <strong>Priyadharsan Vb Portfolio</strong>, demonstrating a commitment to solving the unsolvable.
+  As a developer, <strong>Priyadharsan</strong> is dedicated to crafting high-performance digital ecosystems. Known as a <strong>Priyadharsan MERN Stack Developer</strong>, I bring modern aesthetic and logic to Full stack engineering. My journey is documented through various <strong>Priyadharsan AI Projects</strong> and this <strong>Priyadharsan Portfolio</strong>, demonstrating a commitment to solving the unsolvable.
 </p>
 
 ---
