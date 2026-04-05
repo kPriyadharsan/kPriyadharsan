@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
@@ -48,7 +48,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
 ---
@@ -68,10 +68,10 @@
 
 <p align="center">
   <a href="https://github.com/kpriyadharsan">
-    <img src="https://github-readme-stats.vercel.app/api?username=kpriyadharsan&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kpriyadharsan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
   </a>
   <a href="https://github.com/kpriyadharsan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpriyadharsan&theme=tokyonight&hide_border=true" height="165"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpriyadharsan&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
   </a>
 </p>
 
