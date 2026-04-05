@@ -7,7 +7,7 @@
 <!-- Edit here: Personal Introduction -->
 I am **Priyadharsan**, a results-driven developer specializing in the **MERN stack** with a profound passion for solving complex problems through **Data Structures and Algorithms** in Java. My expertise lies in bridging the gap between hardware knowledge—stemming from my background in Electronics and Communication Engineering—and modern software solutions. I thrive on building scalable, real-world applications that leverage **AI integrations** to enhance user experiences and optimize performance.
 
-- 🔭 Currently working on: [SpeechXO](https://github.com/kpriyadharsan/SpeechXO)
+- 🔭 Currently working on: [Jerry](https://github.com/kpriyadharsan/jerry)
 - 🌱 Learning: Advanced Backend Systems & Large Language Models
 - 💬 Ask me about: **Full-stack Development, Priyadharsan's DSA Expertise, and AI Solutions**
 - ⚡ Fun fact: I believe that code should be as elegant as a mathematical proof.
@@ -37,17 +37,16 @@ I am **Priyadharsan**, a results-driven developer specializing in the **MERN sta
 
 ## 🚀 Featured Projects
 
-### [SpeechXO](https://github.com/kpriyadharsan/SpeechXO)
-**AI + Speech Interaction System**
-- Developed an intelligent system that integrates AI models with speech recognition.
-- Built using the MERN stack for high-performance data handling and reactive UI.
-- [View Repository](https://github.com/kpriyadharsan/SpeechXO)
+### [Jerry](https://github.com/kpriyadharsan/jerry)
+**Personal Montor Powered By Ai**
+- Developed an intelligent system to monior and montor Your tasks like practicing DSA, Aptitude and Communication.
+- [View Repository](https://github.com/kpriyadharsan/jerry)
 
-### [<!-- Edit here: Project 2 Name -->]
-**<!-- Edit here: Short Description -->**
-- Key implementation detail 1.
-- Key implementation detail 2.
-- [View Repository](<!-- Edit here: Link -->)
+### [Real time Quiz App]
+**A Real Time Quiz App, Where All users login and attend the Quiz at once. **
+- Using Socket.io to monitor the users in real time.
+- Built using the MERN stack for high-performance data handling and reactive UI.
+- [View Repository](https://github.com/kpriyadharsan/xoquiz)
 
 ---
 
