@@ -97,9 +97,6 @@
 ---
 
 <p align="center">
-  <br>
-  <img src="assets/footer_glow.png" width="100%" onerror="this.style.display='none'"/>
-  <br>
   <font size="4"><strong>“Turning complex logic into elegant experiences.”</strong></font><br>
   🚀 <i>Priyadharsan K | Engineering the Future with AI & MERN</i>
 </p>
