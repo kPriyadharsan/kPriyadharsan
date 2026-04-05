@@ -89,7 +89,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/kpriyadharsan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52"/></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/endlessxo_/?hl=en"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Instagram.svg" width="52" /></a>
+  <a href="https://www.instagram.com/endlessxo_"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Instagram.svg" width="52" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/kpriyadharsan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52"/></a>
 </p>
