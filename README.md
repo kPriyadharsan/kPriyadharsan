@@ -89,6 +89,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/kpriyadharsan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52"/></a>
   &nbsp;&nbsp;
+  <a href="https://instagram.com/<!-- Edit here: Instagram Username -->"><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Instagram.svg" width="52" /></a>
+  &nbsp;&nbsp;
   <a href="https://github.com/kpriyadharsan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52"/></a>
 </p>
 
@@ -96,7 +98,7 @@
 
 <p align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/Priyadharsan-K/Priyadharsan-K/main/assets/footer_glow.png" width="100%" onerror="this.style.display='none'"/>
+  <img src="assets/footer_glow.png" width="100%" onerror="this.style.display='none'"/>
   <br>
   <font size="4"><strong>“Turning complex logic into elegant experiences.”</strong></font><br>
   🚀 <i>Priyadharsan K | Engineering the Future with AI & MERN</i>
