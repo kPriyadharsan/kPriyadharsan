@@ -49,7 +49,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ---
@@ -88,9 +87,9 @@
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/<!-- Edit here: LinkedIn Username -->"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52"/></a>
+  <a href="https://linkedin.com/in/kpriyadharsan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:<!-- Edit here: Email Address -->"><img src="https://img.icons8.com/color/48/000000/gmail-new.svg" width="52"/></a>
+  <a href="mailto:hello.dharsan@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.svg" width="52"/></a>
   &nbsp;&nbsp;
   <a href="https://github.com/kpriyadharsan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52"/></a>
 </p>
