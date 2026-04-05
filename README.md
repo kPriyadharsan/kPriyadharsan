@@ -68,9 +68,6 @@
 
 <p align="center">
   <a href="https://github.com/kpriyadharsan">
-    <img src="https://github-readme-stats.vercel.app/api?username=kpriyadharsan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  </a>
-  <a href="https://github.com/kpriyadharsan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpriyadharsan&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
   </a>
 </p>
